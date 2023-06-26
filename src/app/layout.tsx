@@ -1,5 +1,3 @@
-"use client"
-
 import Header from "../components/header";
 import AppProvider from "../context/AppProvider";
 import "./globals.css";
